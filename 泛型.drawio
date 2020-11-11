@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T04:47:37.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="yuVsBtcZFC6lgcGbKyQM" type="github"><diagram id="Gf7wsc295O_6Zi249iIq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-11T05:19:38.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="et5KMjDgtY1pTMvL6dsr" version="13.9.2" type="github">
+  <diagram id="Gf7wsc295O_6Zi249iIq" name="第 1 页">
+    <mxGraphModel dx="1422" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-1" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="280" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;诶，小菜你来啦，快过来帮我看下这几个字母是啥意思&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="150" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-9" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;这个代码怎么啦？&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="730" width="161" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;屁股还没坐下，只听隔壁小王一阵呼喊&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="400" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;" vertex="1" parent="1">
+          <mxGeometry x="238" y="430" width="161" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;走过去瞅了一眼屏幕，只见一小行代码&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="460" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iCloudProgressBar;barPos=20;" vertex="1" parent="1">
+          <mxGeometry x="238" y="490" width="161" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-15" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;public class Result&amp;lt;T&amp;gt;{}&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="550" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/tv-screen-smart-widescreen-watch-128.png" vertex="1" parent="1">
+          <mxGeometry x="193.5" y="480" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-17" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="288.5" y="595" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-15-128.png" vertex="1" parent="1">
+          <mxGeometry x="139" y="790" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-21" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="920" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-22" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;这不是看到这个 T ，有点奇怪，感觉没见过的样子&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="790" width="171" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;害！你说这个呀，这个就是泛型的使用案例，泛型中存在着几种标记符分别是：&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="238" y="1010" width="390.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-15-128.png" vertex="1" parent="1">
+          <mxGeometry x="139.5" y="1070" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-26" value="&lt;font class=&quot;cs_cursor&quot;&gt;&lt;b class=&quot;cs_cursor&quot; style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;E&lt;/font&gt;：&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Element (元素，集合中&lt;br&gt;&amp;nbsp;使用，特性是枚举)&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;T&lt;/font&gt;：&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Type (Java 类)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;K&lt;/font&gt;：&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Key (键)&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;V&lt;/font&gt;：&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Value (值)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;N&lt;/font&gt;：&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Number (数值类型)&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;?&lt;/font&gt;：&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;b class=&quot;cs_cursor&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;表示不确定的 Java类型&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="1110" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-29" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="1420" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-30" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;哦，原来是这样，那 Object 跟这些标记符有啥区别呢？&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="1290" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-15-128.png" vertex="1" parent="1">
+          <mxGeometry x="139" y="1570" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-33" value="&lt;strong style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetican&amp;#34; , &amp;#34;glowsanssc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(252 , 252 , 252)&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Object 是所有类的父类，任何类的对象都可以设置给该 Object 引用变量，使用的时候可能需要类型强制转换，但是使用了泛型 T 、E 这些标识符之后，在使用之前类型就已经确定了，这样子就可以不需要进行类型强制转换了&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="1520" width="445" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-34" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="1710" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-35" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;哦~我懂了，谢谢小菜&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="1640" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-15-128.png" vertex="1" parent="1">
+          <mxGeometry x="139.5" y="1852" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-39" value="&lt;strong style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetican&amp;#34; , &amp;#34;glowsanssc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(252 , 252 , 252)&quot;&gt;&lt;span class=&quot;md-plain&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;你啊你，平时没事可以多进一个叫 【小菜良记】 的公众号看看，里面内容还行，我平时有事没事都会去逛一逛的&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="1810" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-40" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="318.5" y="2040" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="QGM2c4BLMQuW3FfZnoAq-41" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;【小菜良记】是吗，好嘞，我现在就去关注！&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="1920" width="237.5" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
