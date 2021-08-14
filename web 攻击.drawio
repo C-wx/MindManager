@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T07:39:11.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="14.9.3" etag="WUn-dQrTKu0u2_PGs2gm" type="github"><diagram id="gnGohXT_mEirKZ7yzHjD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-14T07:55:10.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="cX72hziSZOMUrZ3fSg5c" version="14.9.3" type="github">
+  <diagram id="gnGohXT_mEirKZ7yzHjD" name="第 1 页">
+    <mxGraphModel dx="1684" dy="1210" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-1" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;受害者&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;disableMultiStroke=0;disableMultiStrokeFill=0;fontFamily=Courier New;fontSize=16;fontColor=#3D97B3;fillColor=#EBEBEB;" vertex="1" parent="1">
+          <mxGeometry x="490" y="482.5" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;浏&lt;br&gt;览&lt;br&gt;器&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="340" width="90" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;fontSize=14;fontStyle=1" edge="1" parent="1" source="lfwnRCs3HiFGtrcvlPRA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-6" value="1、登录网站" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="lfwnRCs3HiFGtrcvlPRA-5">
+          <mxGeometry x="-0.2227" relative="1" as="geometry">
+            <mxPoint x="-34" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;" edge="1" parent="1" target="lfwnRCs3HiFGtrcvlPRA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-18" value="2、登录通过，返回 cookie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="lfwnRCs3HiFGtrcvlPRA-16">
+          <mxGeometry x="-0.3231" y="-4" relative="1" as="geometry">
+            <mxPoint x="-23" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.311;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="lfwnRCs3HiFGtrcvlPRA-3" target="lfwnRCs3HiFGtrcvlPRA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-19" value="5、 受步骤 4 的要求，&lt;br style=&quot;font-size: 14px;&quot;&gt;携带以上生成的 cookie访问该站点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="lfwnRCs3HiFGtrcvlPRA-17">
+          <mxGeometry x="0.1231" y="2" relative="1" as="geometry">
+            <mxPoint x="22" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;信任站点&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="360" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.033;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="lfwnRCs3HiFGtrcvlPRA-4" target="lfwnRCs3HiFGtrcvlPRA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-20" value="3、受害者在没有登出信任站点的情况下，&lt;br style=&quot;font-size: 14px;&quot;&gt;访问恶意站点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="lfwnRCs3HiFGtrcvlPRA-10">
+          <mxGeometry x="-0.2082" y="2" relative="1" as="geometry">
+            <mxPoint x="7" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;" edge="1" parent="1" source="lfwnRCs3HiFGtrcvlPRA-4" target="lfwnRCs3HiFGtrcvlPRA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-21" value="4、恶意站点要求访问信任站点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="lfwnRCs3HiFGtrcvlPRA-12">
+          <mxGeometry x="-0.32" y="1" relative="1" as="geometry">
+            <mxPoint x="-28" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;恶意站点&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#000000&quot;&gt;6、由于带上了该信任站点的 cookie，因此信任站点会处理恶意站点的请求，达到了伪造用户请求的目的&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;disableMultiStroke=0;disableMultiStrokeFill=0;fontFamily=Courier New;fontSize=14;fontColor=#3D97B3;fillColor=#EBEBEB;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="500" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lfwnRCs3HiFGtrcvlPRA-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
