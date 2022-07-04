@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T03:58:38.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="v3amLaf6gBQsVgNs6DI3" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T06:30:18.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="exmipV1JyVVBF1HAi2U_" version="20.0.1" type="github">
   <diagram id="no-MHdSHV1weaL2BQ-n9" name="第 1 页">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,6 +375,34 @@
         </mxCell>
         <mxCell id="sTq__NL7Qk4ZU9XHT1aa-15" value="查询出该基础组件影响到的其他基础组件" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="2863.75" width="180" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="sTq__NL7Qk4ZU9XHT1aa-20" target="sTq__NL7Qk4ZU9XHT1aa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-20" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot; face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;scan-fe&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;负责前端项目信息解析&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="3160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="sTq__NL7Qk4ZU9XHT1aa-21" target="sTq__NL7Qk4ZU9XHT1aa-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="3300" />
+              <mxPoint x="390" y="3080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-26" value="1. 手动模式&lt;br&gt;2. 自动模式（代码提交与 Master合并）" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#000000;" vertex="1" connectable="0" parent="sTq__NL7Qk4ZU9XHT1aa-25">
+          <mxGeometry x="0.1632" y="-2" relative="1" as="geometry">
+            <mxPoint x="-59" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-21" value="&lt;font color=&quot;#ff3333&quot;&gt;testhub&lt;/font&gt;&lt;br&gt;负责前端项目信息存储与查询" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="3270" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#000000;strokeWidth=3;" edge="1" parent="1" source="sTq__NL7Qk4ZU9XHT1aa-23" target="sTq__NL7Qk4ZU9XHT1aa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTq__NL7Qk4ZU9XHT1aa-23" value="&lt;font color=&quot;#ff3333&quot;&gt;Jenkins&lt;/font&gt;&lt;br&gt;负责前端项目代码拉取" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="3050" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
