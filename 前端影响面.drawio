@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T03:08:36.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7XlalI2Dr462PtsCFa24" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T04:14:03.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cBXbFgnG9Bv1mnit6h5U" version="20.0.4" type="github">
   <diagram id="no-MHdSHV1weaL2BQ-n9" name="第 1 页">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,6 +482,82 @@
         </mxCell>
         <mxCell id="Hc2DBuUH57iGWpY6GhJZ-9" value="update/ delete/ add" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="321" y="3860" width="226" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-13" target="Hc2DBuUH57iGWpY6GhJZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-13" target="Hc2DBuUH57iGWpY6GhJZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-13" target="Hc2DBuUH57iGWpY6GhJZ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-13" value="组件Diff信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="3660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-14" target="Hc2DBuUH57iGWpY6GhJZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-22" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FF0000;fontStyle=1" vertex="1" connectable="0" parent="Hc2DBuUH57iGWpY6GhJZ-17">
+          <mxGeometry x="-0.5569" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-14" value="删除操作" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="925" y="3796.5" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-20" target="Hc2DBuUH57iGWpY6GhJZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-23" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1;fontColor=#FF0000;" vertex="1" connectable="0" parent="Hc2DBuUH57iGWpY6GhJZ-19">
+          <mxGeometry x="0.0179" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-16" target="Hc2DBuUH57iGWpY6GhJZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-16" value="将组件设为 DELETE 类型" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontStyle=1;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3920" width="160" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-18" value="构建方法节点并设为 DELETE 类型" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontStyle=1;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="955" y="4130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-20" value="是否为方法组件" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontStyle=1;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="935" y="4010" width="210" height="62.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-26" value="更新操作" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="3792" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Hc2DBuUH57iGWpY6GhJZ-32" source="Hc2DBuUH57iGWpY6GhJZ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="3890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-31" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FF0000;fontStyle=1" vertex="1" connectable="0" parent="Hc2DBuUH57iGWpY6GhJZ-30">
+          <mxGeometry x="-0.5569" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-32" value="将组件设为 UPDATE 类型" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontStyle=1;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="3920" width="160" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="Hc2DBuUH57iGWpY6GhJZ-35" target="Hc2DBuUH57iGWpY6GhJZ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-34" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FF0000;fontStyle=1" vertex="1" connectable="0" parent="Hc2DBuUH57iGWpY6GhJZ-33">
+          <mxGeometry x="-0.5569" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-35" value="新增操作" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="3796.5" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-36" value="将组件设为 ADD 类型" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontStyle=1;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="3920" width="160" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc2DBuUH57iGWpY6GhJZ-49" value="&lt;font color=&quot;#000000&quot;&gt;文件为&amp;lt;更新&amp;gt;或&amp;lt;新增&amp;gt; 操作时，方法组件的Diff 可以通过 方法DIFF 操作中解析&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=20;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="4050" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
